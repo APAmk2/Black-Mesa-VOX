@@ -6,4 +6,5 @@ Half-Life/Black Mesa VOX system re-implementation on C++
 - Place .exe at new empty folder.
 - Find any HL or BM VOX files and place it on "VOX" subfolder.
 - Run .exe, type text and enjoy.
--- You can run .exe with arguments and words from arguments will be played.
+      
+      You can run .exe with arguments and words from arguments will be played.
